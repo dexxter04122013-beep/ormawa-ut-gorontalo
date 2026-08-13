@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 560">
+  <defs>
+    <linearGradient id="gBlue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4db7e8"/><stop offset="1" stop-color="#0877a9"/></linearGradient>
+    <linearGradient id="gGold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe900"/><stop offset="1" stop-color="#d9ad00"/></linearGradient>
+    <linearGradient id="gGray" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#333"/><stop offset="1" stop-color="#aaa"/></linearGradient>
+  </defs>
+  <g transform="translate(250 235)">
+    <path d="M-2-205 C-135-170-205-58-195 65 C-186 174-106 237 18 238 C-86 213-147 154-151 55 C-156-63-92-151-2-205Z" fill="url(#gGray)"/>
+    <path d="M12-204 C-18-132 13-73 31-24 C58 51 64 130 25 238 C95 150 88 45 55-35 C31-93 0-130 12-204Z" fill="url(#gBlue)"/>
+    <path d="M-47-93 C-77-36-77 31-35 117 C-13 162-5 194 0 216 C18 137 13 79-17 10 C-38-39-49-64-47-93Z" fill="url(#gGold)"/>
+    <path d="M-105 147 C-91 106-65 75-22 43 L-2 72 C-45 96-76 121-105 147Z" fill="#117cae"/>
+    <path d="M25-36 C79-74 134-89 191-77 C129-70 83-55 35-20Z" fill="url(#gGold)"/>
+    <circle cx="72" cy="-137" r="34" fill="url(#gBlue)"/>
+  </g>
+  <text x="250" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="74" letter-spacing="2" fill="#777">ORMAWA</text>
+  <text x="250" y="456" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="27" letter-spacing="1.2" fill="#16769a">UNIVERSITAS TERBUKA</text>
+  <text x="250" y="497" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="500" font-size="29" letter-spacing="2" fill="#e3bd16">GORONTALO</text>
+</svg>
